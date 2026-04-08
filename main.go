@@ -4,5 +4,5 @@ import "fmt"
 
 func main() {
 	fmt.Println("Hello, Claude Code Action!")
-	fmt.Println("Это простая программа на Go для тестирования.")
+	fmt.Println("This is a simple Go program for testing.")
 }
